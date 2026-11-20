@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jawad Noueihed
 
-<!--
-**jawad-nou/jawad-nou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a full-stack developer based in Lebanon. I build web applications with React, TypeScript, Node.js, and MySQL.
 
-Here are some ideas to get you started:
+## Personal Finance Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For my senior project at Lebanese University, I built an app for tracking income, expenses, savings goals, and monthly budgets. Its dashboard shows which spending categories are approaching their limits.
+
+I built the React interface and the Express API. I tested endpoints with Postman, then followed a user from registration through recording transactions, receiving a budget alert, and exporting a report.
+
+[See the dashboard, architecture, and testing walkthrough](https://jawad-nou.github.io/Jawad-Noueihed.github.io/#work)
+
+## Applied AI engineering
+
+At SE Factory’s Applied AI Engineering Workshop, I built an agent that retrieves information and calls tools. I also worked on evaluating its answers and tracing its requests.
+
+[View my portfolio](https://jawad-nou.github.io/Jawad-Noueihed.github.io/)
