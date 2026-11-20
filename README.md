@@ -10,12 +10,12 @@ I built the React interface and the Express API. I tested endpoints with Postman
 
 [See the dashboard, architecture, and testing walkthrough](https://jawad-nou.github.io/Jawad-Noueihed.github.io/#work)
 
-[Watch the dashboard, budget, and expense demo (51 seconds)](https://jawad-nou.github.io/Jawad-Noueihed.github.io/#finance-demo)
+[Watch the full Personal Finance Manager walkthrough (3:43)](https://jawad-nou.github.io/Jawad-Noueihed.github.io/#finance-demo)
 
 ## Internships
 
 **Tawasoul · Full-Stack Web Development Intern**  
-During a three-month internship, I built Astro pages for a professional networking platform and worked on sign-in, email verification, and password recovery. [Watch the password recovery demo (11 seconds)](https://jawad-nou.github.io/Jawad-Noueihed.github.io/#tawasoul-demo).
+During a three-month internship, I built Astro pages for a professional networking platform and worked on sign-in, email verification, and password recovery. [Watch the full registration and password recovery walkthrough (2:18)](https://jawad-nou.github.io/Jawad-Noueihed.github.io/#tawasoul-demo).
 
 **Hurdle Solutions · Full-Stack Web Development Intern**  
 Over 12 weeks, I contributed to SleekSyncPOS, a React and Supabase point-of-sale system for a tuxedo rental business. I built reusable tables for finding and sorting records, added row duplication to inventory and employee screens, and simplified the invoice interface.
