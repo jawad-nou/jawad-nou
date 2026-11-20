@@ -12,6 +12,8 @@ I built the React interface and the Express API. I tested endpoints with Postman
 
 ## Applied AI engineering
 
-At SE Factory’s Applied AI Engineering Workshop, I built an agent that retrieves information and calls tools. I also worked on evaluating its answers and tracing its requests.
+For my SE Factory project, I added a tool-calling assistant to Personal Finance Manager. It answers questions using the signed-in user’s records, drafts savings plans, and asks for approval before applying a budget change.
+
+[Explore the source code, sample data, and evaluation suite](https://github.com/jawad-nou/personal-finance-ai-assistant)
 
 [View my portfolio](https://jawad-nou.github.io/Jawad-Noueihed.github.io/)
